@@ -1,0 +1,52 @@
+.aboutInfo{
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../images/cpbg1.jpeg');
+    display: block;
+    width: auto;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.setMid{
+    position: relative;
+    float: left;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.setMidHorizontal{
+    position: relative;
+    float: left;
+    left: 50%;
+    transform: translate(-50%);
+}
+.inforHdr{
+    color: white;
+    font-size: 20px;
+}
+.infoP{
+    color: gainsboro;
+}
+.aboutHeader{
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../images/tbg1.jpeg');
+    display: block;
+    width: auto;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 20px;
+}
+.hdr{
+    color: white;
+    font-family: Calibri;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 48px;
+}
+.designation{
+    background-color: #ce0000;
+    color: white;
+    font-size: 14px;
+    position: relative;
+    margin-left: auto;
+    margin-right: 0px;
+    transform: translate(0%,-200%);
+    padding: 5px;
+}

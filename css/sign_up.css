@@ -1,0 +1,91 @@
+body{
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+#regForm{
+    background-color:#333;
+    padding: 30px;
+    margin-top: 20px;
+    border-radius: 10px;
+    opacity: 0.9;
+}
+#regForm label,h1{
+    color:#ffff;
+}
+.icon {
+    padding: 10px;
+    background-color:dodgerblue;
+    color: white;
+    min-width: 50px;
+    text-align: center;
+}
+.icon-l{
+    padding: 10px;
+    background-color:dodgerblue;
+    color: white;
+    min-width: 50px;
+    text-align: center;
+}
+.setMidHorizontal{
+    position: relative;
+    float: left;
+    left: 50%;
+    transform: translate(-50%);
+}
+.signUpHeader{
+    color: white;
+    font-family: "Bahnschrift";
+    font-weight: bold;
+    font-size: 30px;
+}
+.signUpPromo{
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../images/TESLA-MOTORS-Model-S-5659_1.jpeg');
+    display: block;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.setMid{
+    position: relative;
+    float: left;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.setMidHorizontal{
+    position: relative;
+    float: left;
+    left: 50%;
+    transform: translate(-50%);
+}
+.inforHdr{
+    color: white;
+    font-size: 20px;
+}
+.infoP{
+    color: gainsboro;
+}
+.userAgrr{
+    font-size: 14px;
+    color: darkslategray;
+}
+.navHolder{
+    background:whitesmoke;
+    border-bottom: #ebebeb 1px solid;
+}
+.navbar{
+    /*  position: absolute;
+      top:60px;
+      z-index: 999;
+      margin-top: -60px;*/
+}
+.navbar a {
+    color:dodgerblue;
+    font-size: 20px;
+    font-weight: bold;
+    display: block;
+}
+.navbar a:hover {
+    color: #421db3;
+}

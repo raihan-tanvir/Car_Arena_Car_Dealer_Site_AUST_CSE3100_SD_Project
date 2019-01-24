@@ -1,0 +1,65 @@
+@media only screen and (max-width: 600px) {
+
+
+}
+.navHolder{
+    background:whitesmoke;
+    border-bottom: #ebebeb 1px solid;
+}
+.navbar{
+    /*  position: absolute;
+      top:60px;
+      z-index: 999;
+      margin-top: -60px;*/
+}
+.navbar a {
+    color:dodgerblue;
+    font-size: 20px;
+    font-weight: bold;
+    display: block;
+}
+.navbar a:hover {
+    color: #421db3;
+}
+.sign-up-icon {
+    position: fixed;
+    top: 10%;
+    left: 0%;
+}
+
+#banner1{
+    display: none;
+}
+
+.modal-title{
+    color: white;
+    font-weight: bold;
+}
+.signUpCard{
+    background-color: #0b2e13;
+    border: #b70000 5px solid;
+
+}
+
+.close {
+    position: absolute;
+    right: 25px;
+    top: 3%;
+    color: #000;
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.icon {
+    padding: 10px;
+    background: #c1ffa0;
+    color: white;
+    min-width: 50px;
+    text-align: center;
+}
+.setMidHorizontal{
+    position: relative;
+    float: left;
+    left: 50%;
+    transform: translate(-50%);
+}

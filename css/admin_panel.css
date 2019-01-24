@@ -1,0 +1,33 @@
+#sidebar ul li {
+    border-bottom: 2px solid gray;
+    padding: 5px;
+}
+.tabPagaination{
+    width: auto;
+    border: 1px solid blue;
+}
+table{
+}
+.topbar{
+    align-content: center;
+    padding-left: 10px;
+    font-size: 16px;
+    border-width: 0px 1px 1px;
+    border-style: solid;
+    border-color: #cacaca;
+    margin-bottom: 20px;
+}
+.table-hover tbody tr:hover td {
+    background:lightgoldenrodyellow;
+}
+.toEnd{
+    float: right;
+}
+.icon-l{
+    padding: 10px;
+    min-width: 50px;
+    text-align: center;
+}
+ul a{
+    color:black;
+}

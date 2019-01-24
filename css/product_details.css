@@ -1,0 +1,56 @@
+.hdr{
+    color: white;
+    font-family: "Times New Roman";
+    font-weight: bold;
+    font-style: italic;
+    font-size: 48px;
+}
+.productTitle{
+    color: black;
+    font-family: "Times New Roman";
+    font-weight: bold;
+    font-size: 44px;
+}
+.productSubTitle{
+    color: gray;
+    font-family: "Times New Roman";
+    font-weight: bold;
+    font-size: 22px;
+}
+.detailsTab {
+    width: fit-content;
+    height: fit-content;
+    padding: 5px;
+    background: #ce0000;
+}
+.detailsTab a {
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+    font-family: "Arial Black";
+}
+.detailsTab a:link {
+    color: white;
+}
+.detailsTab a:hover{
+    color: gainsboro;
+}
+
+.colorBox{
+    width: 60px;
+    height:15px;
+}
+.specHdr{
+    color: white;
+    font-weight: bold;
+    font-size: 22px;
+    font-family: "Calibri Light";
+    background: #ce0000;
+}
+.vLabel{
+    margin: 20px 0px 20px;
+    border-color: gainsboro;
+    border-style: solid;
+    border-width: 1px;
+    padding: 12px;
+}

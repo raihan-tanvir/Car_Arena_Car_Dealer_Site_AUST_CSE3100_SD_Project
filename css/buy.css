@@ -1,0 +1,51 @@
+.sortbar{
+    align-content: center;
+    padding-left: 10px;
+    font-size: 16px;
+    border-width: 0px 1px 1px;
+    border-style: solid;
+    border-color: #cacaca;
+    margin-bottom: 20px;
+}
+.filterBar{
+    background: black;
+    border-bottom-color: red;
+    border-bottom-style: solid;
+
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+    text-align: center;
+    width: 100%;
+    padding:5px;
+}
+.carListingHeader{
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../images/tbg1.jpeg');
+    display: block;
+    width: auto;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 20px;
+}
+.hdr{
+    color: white;
+    font-family: Calibri;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 48px;
+}
+
+input[type="radio"] {
+    -webkit-appearance: checkbox;
+    -moz-appearance: checkbox;
+}
+.premiumLabel{
+    background-color: #b70000;
+    color: white;
+    font-size: 14px;
+    margin-top: -15%;
+    margin-left: 69.6%;
+    margin-right: 0px;
+    position: absolute;
+    padding: 5px;
+}

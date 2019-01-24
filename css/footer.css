@@ -1,0 +1,20 @@
+
+.footer{
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../images/tbg1.jpeg');
+    display: block;
+    width: auto;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.cpyP{
+    background-color:black;
+    opacity: .8;
+    text-align:center;
+    color:white;
+    padding:10px;
+}
+.ftrH,.ftrP{
+    color: white;
+}

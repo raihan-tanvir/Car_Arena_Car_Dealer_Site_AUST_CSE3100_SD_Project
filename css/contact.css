@@ -1,0 +1,32 @@
+.contactHeader{
+    font-family: "Calibri Light";
+    font-weight: bold;
+    font-size: 48px;
+}
+.contactInfo{
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../images/cpbg1.jpeg');
+    display: block;
+    width: auto;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.setMid{
+    position: relative;
+    float: left;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.setMidHorizontal{
+    position: relative;
+    float: left;
+    left: 50%;
+    transform: translate(-50%);
+}
+.inforHdr{
+    color: white;
+    font-size: 20px;
+}
+.infoP{
+    color: gainsboro;
+}
