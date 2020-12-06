@@ -1,6 +1,8 @@
 # Car Arena - Car Dealer Site
 
-## Car Arena is a website developed using *HTML, CSS, JavaScript* at the client side and * raw PHP* at the server side.
+## Car Arena is a website developed using *HTML, CSS, JavaScript* at the client side and raw *PHP* at the server side.
+
+<img src="docs/image/sc1.png" width=auto/>
 
 <table>
   <tr>
@@ -15,8 +17,10 @@
   <tr>
     <td>
       <img src="docs/image/sc3.png" width=auto/>
+    </td
+    <td>
+      <img src="docs/image/sc3.png" width=auto/>
     </td>
-
   </tr>
   
    <tr>
