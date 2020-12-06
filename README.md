@@ -2,7 +2,13 @@
 
 ## Car Arena is a website developed using *HTML, CSS, JavaScript* at the client side and * raw PHP* at the server side.
 
-<kbd><img src="docs/image/sc1.png" width=49%/></kbd>  <kbd><img src="docs/image/sc2.png" width=49%/></kbd>
+<table>
+  <tr>
+    <td>
+      <img src="docs/image/sc1.png" width=49%/>
+    </td>
+  </tr>
+</table>
 
 <img src="docs/image/sc3.png" width=50%/> <img src="docs/image/sc4.png" width=50%/> 
 
