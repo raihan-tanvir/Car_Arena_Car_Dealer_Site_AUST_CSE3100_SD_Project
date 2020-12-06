@@ -16,9 +16,7 @@
     <td>
       <img src="docs/image/sc3.png" width=auto/>
     </td>
-    <td>
-      <img src="docs/image/sc4.png" width=auto/>
-    </td>
+
   </tr>
   
    <tr>
