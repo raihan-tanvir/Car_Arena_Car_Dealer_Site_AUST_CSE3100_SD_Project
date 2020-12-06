@@ -24,7 +24,7 @@
   </tr>  
   <tr>
     <td>
-      <img src="docs/image/sc7.png" width=auto/>
+      <img src="docs/image/sc11.png" width=auto/>
     </td>
     <td>
       <img src="docs/image/sc9.png" width=auto/>
@@ -32,10 +32,10 @@
   </tr>  
   <tr>
     <td>
-      <img src="docs/image/sc11.png" width=auto/>
+      <img src="docs/image/sc14.png" width=auto/>
     </td>
     <td>
-      <img src="docs/image/sc14.png" width=auto/>
+      <img src="docs/image/sc10.png" width=auto/>
     </td>
   </tr>
 
