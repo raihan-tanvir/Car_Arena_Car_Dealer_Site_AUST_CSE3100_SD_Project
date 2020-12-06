@@ -103,14 +103,14 @@ include 'header.php'
         <div class="row">
             <div class="col-md-4">
                 <div class="row p-3">
-                    <img src="images/president.jpg" class="d-block w-auto">
+                    <img src="images/ray007.jpg" class="d-block w-auto">
                     <span class="designation justify-content-end">President</span>
                 </div>
                 <div class="row justify-content-center">
-                    <h5 class="font-weight-bold">Ethan Hunt</h5>
+                    <h5 class="font-weight-bold">Raihan Tanvir</h5>
                 </div>
                 <div class="row justify-content-center text-center pr-3 pl-3" style="">
-                    <p class="">Toyota was the world's first automobile manufacturer to produce.</p>
+                    <p class=""></p>
                 </div>
                 <div class='p-2 bg-light' style='background-color: ;'>
                     <div class='row'>
@@ -134,14 +134,14 @@ include 'header.php'
             </div>
             <div class="col-md-4">
                 <div class="row p-3">
-                    <img src="images/ceo.jpeg">
+                    <img src="images/sun.jpg">
                     <span class="designation justify-content-end">Vice-President</span>
                 </div>
                 <div class="row justify-content-center">
-                    <h5 class="font-weight-bold">Jack Reacher</h5>
+                    <h5 class="font-weight-bold">Susmoy Kar</h5>
                 </div>
                 <div class="row justify-content-center text-center pr-3 pl-3" style="">
-                    <p class="">Toyota was the world's first automobile manufacturer to produce.</p>
+                    <p class=""></p>
                 </div>
                 <div class='p-2 bg-light' style='background-color: ;'>
                     <div class='row'>
@@ -165,14 +165,14 @@ include 'header.php'
             </div>
             <div class="col-md-4">
                 <div class="row p-3">
-                    <img src="images/hanna.jpg">
+                    <img src="images/shifa.jpg">
                     <span class="designation justify-content-end">CEO</span>
                 </div>
                 <div class="row justify-content-center">
-                    <h5 class="font-weight-bold">Hanna Becker</h5>
+                    <h5 class="font-weight-bold">Humaira Ferdous</h5>
                 </div>
                 <div class="row justify-content-center text-center pr-3 pl-3" style="">
-                    <p class="">Toyota was the world's first automobile manufacturer to produce.</p>
+                    <p class=""></p>
                 </div>
                 <div class='p-2 bg-light' style='background-color: ;'>
                     <div class='row'>

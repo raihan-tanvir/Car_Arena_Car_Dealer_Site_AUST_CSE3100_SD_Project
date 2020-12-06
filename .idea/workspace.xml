@@ -1,0 +1,742 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5b15be0d-3b24-425b-b34a-a5c438b787af" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="500">
+              <caret line="25" column="34" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="buy.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/buy.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4620">
+              <caret line="236" column="19" selection-start-line="236" selection-start-column="19" selection-end-line="236" selection-end-column="19" />
+              <folding>
+                <element signature="n#getProduct#0;n#!!top" />
+                <element signature="n#show_details#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="about.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/about.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="20">
+              <caret line="174" column="32" selection-start-line="174" selection-start-column="32" selection-end-line="174" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="footer.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/footer.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="640">
+              <caret line="37" column="81" selection-start-line="37" selection-start-column="81" selection-end-line="37" selection-end-column="81" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/login.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="900">
+              <caret line="50" column="22" selection-start-line="50" selection-start-column="22" selection-end-line="50" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dbConnection.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dbConnection.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="contact.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/contact.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1700">
+              <caret line="85" column="60" selection-start-line="85" selection-start-column="60" selection-end-line="85" selection-end-column="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>$_SESSION['id'][$message]</find>
+      <find>$_SESSION['regStatus']</find>
+      <find>$_SESSION['loginStatus']</find>
+      <find>$_SESSION['message']</find>
+      <find>session_start</find>
+      <find>print_r</find>
+      <find>This is short description about this Car.This is short description about this Car.</find>
+      <find>MotorLand is nisi aliquip ex consequat duis velit esse cillum dolore fugiat nulla pariatur excepteur sint occaecat\.\n</find>
+      <find>MotorLand is nisi aliquip ex consequat duis velit esse cillum dolore fugiat nulla\n                pariatur excepteur sint occaecat</find>
+      <find>MotorLand is aliquip exd ea consequat duis lorem ipsum dolor sit amet consectetur dipis icing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam quis nostrud exercitation. Slamco laboris nisi ut aliquip ex ea comdo cons equat uis aute irure dolor easprehen derit..</find>
+      <find>MotorLand is aliquip exd ea consequat duis lorem ipsum dolor sit amet consectetur dipis icing elit\, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua\. Ut enim ad minim veniam quis nostrud exercitation\. Slamco laboris nisi ut aliquip ex ea comdo cons equat uis aute irure dolor easprehen derit\.\.\n</find>
+      <find>MotorLand is nisi aliquip ex consequat duis velit esse cillum dolore fugiat nulla\n                pariatur excepteur sint occaecat\.</find>
+      <find>font-size: 14px</find>
+      <find>&lt;p style=&quot;font-size: 14px&quot;&gt;</find>
+      <find>Toyota is the world's market leader in sales of hybrid electric vehicles, and one of the largest companies to encourage the mass-market</find>
+      <find>Toyota is the world's second-largest automotive manufacturer. Toyota was the world's first automobile manufacturer to produce more than 10 million vehicles per year.</find>
+      <find>MotorLand is nisi aliquip ex consequat duis velit esse cillum dolore fugiat\n                    nulla pariatur excepteur sint occaecat\.</find>
+      <find>MotorLand is aliquip exd ea consequat duis lorem ipsum dolor sit amet\n                            consectetur dipis icing elit\, sed do eiusmod tempor incididunt ut labore et dolore magna\n                            aliqua\. Ut enim ad minim veniam quis nostrud exercitation\. Slamco laboris nisi ut aliquip ex\n                            ea comdo cons equat uis aute irure dolor easprehen derit\.\.</find>
+      <find>Do in laughter securing smallest sensible no mr hastened.</find>
+      <find>As perhaps proceed in in brandon of limited unknown greatly.</find>
+      <find>This is long description of this car\. totam rem aperiam\, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo\. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit\.\n\n                                Wliquam sit amet urna sed vel nullam semper aiber vestiblum fringilla orem ipsum dolor sit amet consectetur adipisc ing elit sed don eiusmod tempor incididunt ut labore et dolore magna aliquaa enimd ads minim veniam quis nostrud Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmod tempor\. Lorem ipsum dolor sit amet consec tetur adipisicing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua\.\n\n                                Ut enim ad minim veniam\, quis nostrud exercitation ullamco laboris nisi aliquip ex ea commodo consequat\. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur\.\n\n                                Aiber vestiblum fringilla orem ipsum dolor sit amet consectetur adipisc ing elit sed don eiusmod tempor incididunt ut labore et dolore magna aliquaa enimd ads minim veniam quis nostrud Lorem ipsum dolor sit amet consectetur adipis cing elit sed do eiusmod tempor\. Lorem ipsum dolor sit amet consectetur adipisicing\.\n\n</find>
+      <find>Toyota received its first Japanese Quality Control Award at the start of the 1980s and began participating in a wide variety of motorsports\. Due to the 1973 oil crisis\, consumers in the lucrative US market began turning to make small cars with better fuel economy\. American car manufacturers had considered small economy cars to be an entry\-level product\, and their small vehicles employed a low level of quality to keep the price low\. Conservative Toyota held on to rear\-wheel\-drive designs for longer than most\; while a clear first in overall production they were only third in production of front\-wheel\-drive cars in 1983\, behind Nissan and Honda\. In part due to this\, Nissan\'s Sunny managed to squeeze by the Corolla in numbers built that year\.\[33\]\n                                In 1982\, the Toyota Motor Company and Toyota Motor Sales merged into one company\, the Toyota Motor Corporation\. Two years later\, Toyota entered into a joint venture with General Motors called the New United Motor Manufacturing\, Inc\, NUMMI\, operating an automobile\-manufacturing plant in Fremont\, California\. The factory was an old General Motors plant that had been closed for two years\. It is currently the site of Tesla\, Inc\.\'s assembly plant\. Toyota then started to establish new brands at the end of the 1980s\, with the launch of their luxury division Lexus in 1989\.\n</find>
+      <find>print</find>
+      <find>&lt;option&gt;...&lt;/option&gt;</find>
+      <find>op=0</find>
+      <find>p</find>
+      <find>mdb</find>
+      <find>shera_gari</find>
+      <find>autochoice</find>
+      <find>AUTO SELECTION</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>featuredCarCarousel</replace>
+      <replace>md</replace>
+      <replace>getFeaturedCar</replace>
+      <replace>setCarouselItem</replace>
+      <replace>$_SESSION['id'][$message]</replace>
+      <replace>$_SESSION['id'][$regStatus]</replace>
+      <replace>$_SESSION['id']['loginStatus']</replace>
+      <replace>The new Bugatti Chiron Sport comes with a number of improvements to the chassis, but the engine remains the same as the Chiron, so the performance is almost the same. Bugatti made changes in a department where they needed serious improvements: the handlling.</replace>
+      <replace>'. $row[&quot;description&quot;] .'</replace>
+      <replace>text-justify</replace>
+      <replace>MotorLand is aliquip exd ea consequat duis lorem ipsum dolor sit amet consectetur dipis icing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam quis nostrud exercitation. Slamco laboris nisi ut aliquip ex ea comdo cons equat uis aute irure dolor easprehen derit..</replace>
+      <replace>The ACRISS Car Classification Code is a code used by many car rental companies, for classifying vehicles.</replace>
+      <replace>Toyota is the world's second-largest automotive manufacturer. Toyota was the world's first automobile manufacturer to produce more than 10 million vehicles per year</replace>
+      <replace>&lt;p class=&quot;text-justify&quot;style=&quot;font-size: 14px&quot;&gt;</replace>
+      <replace>Toyota is the world's market leader in sales of hybrid electric vehicles, and one of the largest companies to encourage the mass-market</replace>
+      <replace>Toyota is the world's market leader in sales of hybrid electric vehicles, and one of the largest companies to encourage the mass-market.</replace>
+      <replace>The new Bugatti Chiron Sport comes with a number of improvements to the chassis, but the engine remains the same as the Chiron, so the performance is almost the same. Bugatti made changes in a department where they needed serious improvements: the handlling. One of the modifications which make the Chiron Sport more nimble is a weight reduction of about 18 kg,.</replace>
+      <replace>Toyota is the world's second-largest automotive manufacturer. Toyota was the world's first automobile manufacturer to produce more than 10 million vehicles per year.</replace>
+      <replace>Toyota is the world's second-largest automotive manufacturer. Toyota was the world's first automobile manufacturer to produce</replace>
+      <replace>Toyota is the world's market leader in sales of hybrid electric vehicles, and one of the largest companies to encourage the mass-market adoption of hybrid vehicles across the globe. Toyota is also a market leader in hydrogen fuel-cell vehicles. Cumulative global sales of Toyota and Lexus hybrid passenger car models achieved the 10 million milestone in January 2017.</replace>
+      <replace>Toyota is the world's market leader in sales of hybrid electric vehicles</replace>
+      <replace>Toyota Motor Corporation (Japanese: トヨタ自動車株式会社 Hepburn: Toyota Jidōsha KK, IPA: [toꜜjota], English: /tɔɪˈoʊtə/), usually shortened to Toyota, is a Japanese multinational automotive manufacturer headquartered in Toyota, Aichi, Japan. In 2017, Toyota's corporate structure consisted of 364,445 employees worldwide[6] and, as of October 2017, was the fifth-largest company in the world by revenue. As of 2017, Toyota is the world's second-largest automotive manufacturer. Toyota was the world's first automobile manufacturer to produce more than 10 million vehicles per year which it has done since 2012, when it also reported the production of its 200-millionth vehicle.[7] As of July 2014, Toyota was the largest listed company in Japan by market capitalization (worth more than twice as much as #2-ranked SoftBank)[8] and by revenue.[9][10]  Toyota is the world's market leader in sales of hybrid electric vehicles, and one of the largest companies to encourage the mass-market adoption of hybrid vehicles across the globe. Toyota is also a market leader in hydrogen fuel-cell vehicles. Cumulative global sales of Toyota and Lexus hybrid passenger car models achieved the 10 million milestone in January 2017. Its Prius family is the world's top selling hybrid nameplate with over 6 million units sold worldwide as of January 2017.[11]</replace>
+      <replace>&lt;option value=''&gt;...&lt;/option&gt;</replace>
+      <replace>overview=1</replace>
+      <replace />
+      <replace>auto_selection</replace>
+      <replace>AUTO SELECTION</replace>
+      <replace>CARENA</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/contactPage.php" />
+        <option value="$PROJECT_DIR$/signUpHandler.php" />
+        <option value="$PROJECT_DIR$/../pagination/index.php" />
+        <option value="$PROJECT_DIR$/buyCurr.php" />
+        <option value="$PROJECT_DIR$/dbConnection.php" />
+        <option value="$PROJECT_DIR$/sign_upCurr.php" />
+        <option value="$PROJECT_DIR$/sign_upBkp.php" />
+        <option value="$PROJECT_DIR$/css/sign_up1.css" />
+        <option value="$PROJECT_DIR$/css/home1.css" />
+        <option value="$PROJECT_DIR$/search.php" />
+        <option value="$PROJECT_DIR$/css/user_profile.css" />
+        <option value="$PROJECT_DIR$/tets.php" />
+        <option value="$PROJECT_DIR$/validate.php" />
+        <option value="$PROJECT_DIR$/controlPanel.php" />
+        <option value="$PROJECT_DIR$/insert_pr.php" />
+        <option value="$PROJECT_DIR$/upload.php" />
+        <option value="$PROJECT_DIR$/css/contact.css" />
+        <option value="$PROJECT_DIR$/css/home.css" />
+        <option value="$PROJECT_DIR$/home.php" />
+        <option value="$PROJECT_DIR$/contact_handler.php" />
+        <option value="$PROJECT_DIR$/css/admin.php.css" />
+        <option value="$PROJECT_DIR$/sign_upBak.php" />
+        <option value="$PROJECT_DIR$/css/about.css" />
+        <option value="$PROJECT_DIR$/authenticatorBak.php" />
+        <option value="$PROJECT_DIR$/headerBak.php" />
+        <option value="$PROJECT_DIR$/sign_up.php" />
+        <option value="$PROJECT_DIR$/user_profile.php" />
+        <option value="$PROJECT_DIR$/indexBak.php" />
+        <option value="$PROJECT_DIR$/css/update_product.css" />
+        <option value="$PROJECT_DIR$/css/admin_panel.css" />
+        <option value="$PROJECT_DIR$/view_message.php" />
+        <option value="$PROJECT_DIR$/css/sign_up.css" />
+        <option value="$PROJECT_DIR$/session_var.php" />
+        <option value="$PROJECT_DIR$/css/header.css" />
+        <option value="$PROJECT_DIR$/insert_product.php" />
+        <option value="$PROJECT_DIR$/css/index.css" />
+        <option value="$PROJECT_DIR$/css/buy.css" />
+        <option value="$PROJECT_DIR$/buy.php" />
+        <option value="$PROJECT_DIR$/css/footer.css" />
+        <option value="$PROJECT_DIR$/css/product_details.css" />
+        <option value="$PROJECT_DIR$/product_details.php" />
+        <option value="$PROJECT_DIR$/authenticator.php" />
+        <option value="$PROJECT_DIR$/header.php" />
+        <option value="$PROJECT_DIR$/insert_product_handler.php" />
+        <option value="$PROJECT_DIR$/admin.php" />
+        <option value="$PROJECT_DIR$/update_product.php" />
+        <option value="$PROJECT_DIR$/contact.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/login.php" />
+        <option value="$PROJECT_DIR$/footer.php" />
+        <option value="$PROJECT_DIR$/about.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="PhpDebugGeneral" listening_started="true" />
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/../../php" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="170" />
+    <option name="y" value="91" />
+    <option name="width" value="1026" />
+    <option name="height" value="546" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="carena" type="b2602c69:ProjectViewProjectNode" />
+              <item name="carena" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/xampp/htdocs/sdProject/css/home.css" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="liveEdit" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\sdProject" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\sdProject" />
+      <recent name="C:\xampp\htdocs\sdProject\css" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="C" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" />
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHP Script.C" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5b15be0d-3b24-425b-b34a-a5c438b787af" name="Default" comment="" />
+      <created>1531456396064</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1531456396064</updated>
+      <workItem from="1531456398572" duration="7218000" />
+      <workItem from="1531482376228" duration="22405000" />
+      <workItem from="1531551354055" duration="14875000" />
+      <workItem from="1531575754890" duration="3522000" />
+      <workItem from="1531585976121" duration="3929000" />
+      <workItem from="1531590169032" duration="2433000" />
+      <workItem from="1532000060749" duration="26875000" />
+      <workItem from="1532062043303" duration="22179000" />
+      <workItem from="1532117395375" duration="1920000" />
+      <workItem from="1532146836379" duration="8589000" />
+      <workItem from="1532157652489" duration="1129000" />
+      <workItem from="1532171292437" duration="1217000" />
+      <workItem from="1532174250059" duration="164000" />
+      <workItem from="1532174630858" duration="306000" />
+      <workItem from="1532174975933" duration="148000" />
+      <workItem from="1532185980654" duration="9398000" />
+      <workItem from="1532196291521" duration="2146000" />
+      <workItem from="1532257650261" duration="6285000" />
+      <workItem from="1532269622495" duration="5532000" />
+      <workItem from="1532286675811" duration="8000" />
+      <workItem from="1532354694384" duration="13763000" />
+      <workItem from="1532612833536" duration="3566000" />
+      <workItem from="1532617742138" duration="13956000" />
+      <workItem from="1532665665197" duration="11943000" />
+      <workItem from="1532679447440" duration="5174000" />
+      <workItem from="1532692767296" duration="9472000" />
+      <workItem from="1532706962793" duration="4804000" />
+      <workItem from="1532749381436" duration="1417000" />
+      <workItem from="1532758327607" duration="17000" />
+      <workItem from="1532772014843" duration="749000" />
+      <workItem from="1532783416775" duration="1283000" />
+      <workItem from="1532784981289" duration="18295000" />
+      <workItem from="1532871511184" duration="18928000" />
+      <workItem from="1532956515531" duration="241000" />
+      <workItem from="1533188046715" duration="77066000" />
+      <workItem from="1533389119863" duration="32920000" />
+      <workItem from="1533456011735" duration="75714000" />
+      <workItem from="1533620972681" duration="21302000" />
+      <workItem from="1533643223150" duration="16183000" />
+      <workItem from="1533703865408" duration="20773000" />
+      <workItem from="1533727002412" duration="25272000" />
+      <workItem from="1533796285637" duration="3472000" />
+      <workItem from="1533799909456" duration="4481000" />
+      <workItem from="1533878010666" duration="87000" />
+      <workItem from="1537605686884" duration="1816000" />
+      <workItem from="1537623210998" duration="24581000" />
+      <workItem from="1539571756764" duration="1121000" />
+      <workItem from="1548873529021" duration="1104000" />
+      <workItem from="1548909031260" duration="2381000" />
+      <workItem from="1558285435978" duration="428000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="552587000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" weight="0.12393888" />
+      <window_info anchor="bottom" id="Database Changes" order="2" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="1" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.19288956" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="0" weight="0.32980332" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="CSS-X-Fire" order="12" weight="0.3293718" />
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.39898133" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="5" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="6" weight="0.3293718" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.1580938" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="1" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="7" />
+      <window_info anchor="bottom" id="Find" order="6" weight="0.3293718" />
+      <window_info anchor="right" id="Database" order="0" weight="0.32980332" />
+      <window_info anchor="bottom" id="CSS-X-Fire" order="12" weight="0.3293718" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" weight="0.12393888" />
+      <window_info anchor="bottom" id="Database Changes" order="2" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.39898133" />
+      <window_info anchor="bottom" id="Message" order="5" />
+      <window_info id="Favorites" order="0" side_tool="true" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/index.php</url>
+          <line>11</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/buy.php</url>
+          <line>462</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/authenticator.php</url>
+          <line>52</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/admin.php</url>
+          <line>8</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/admin.php</url>
+          <line>338</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/admin.php</url>
+          <line>140</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="20" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/html5/web-forms.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="494" column="22" selection-start-line="494" selection-start-column="22" selection-end-line="494" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/user_profile.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tets.php" />
+    <entry file="file://$PROJECT_DIR$/sign_up1.php" />
+    <entry file="file://$PROJECT_DIR$/loginHandler.php" />
+    <entry file="file://$PROJECT_DIR$/controlPanel.php" />
+    <entry file="file://$PROJECT_DIR$/upload.php" />
+    <entry file="file://E:/AUST/3.1/CSE3100 - Software Development IV/assignment#2/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-242">
+          <caret line="16" column="1" selection-end-line="49" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2540">
+          <caret line="5" column="122812" selection-start-line="5" selection-start-column="122812" selection-end-line="5" selection-end-column="122812" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-580">
+          <caret line="47" column="33" selection-start-line="47" selection-start-column="33" selection-end-line="47" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/search.php" />
+    <entry file="file://$PROJECT_DIR$/contact_handler.php" />
+    <entry file="file://$PROJECT_DIR$/../sdProjectBkp/admin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="89" column="29" lean-forward="true" selection-start-line="89" selection-start-column="29" selection-end-line="89" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contactPage.php" />
+    <entry file="file://$PROJECT_DIR$/css/sign_up1.css" />
+    <entry file="file://$PROJECT_DIR$/../sdProjectBkp/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="68" column="26" lean-forward="true" selection-start-line="68" selection-start-column="26" selection-end-line="68" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/session/session.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7">
+          <caret line="195" column="24" lean-forward="true" selection-start-line="195" selection-start-column="24" selection-end-line="195" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user_profile.php" />
+    <entry file="file://$PROJECT_DIR$/headerBak.php" />
+    <entry file="file://$PROJECT_DIR$/authenticatorBak.php" />
+    <entry file="file://$PROJECT_DIR$/indexBak.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Products.URL" />
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/html5/block.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/about.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="42" selection-start-line="42" selection-end-line="51" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/update_product.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sign_up.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="23" column="2" lean-forward="true" selection-start-line="23" selection-start-column="2" selection-end-line="23" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/session_var.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view_message.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1276">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/buy.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-460">
+          <caret line="4" column="30" lean-forward="true" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/contact.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="30" column="21" lean-forward="true" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/footer.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/sign_up.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/product_details.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/product_details.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2780">
+          <caret line="139" column="137" selection-start-line="139" selection-start-column="137" selection-end-line="139" selection-end-column="137" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/header.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-702">
+          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="71" column="84" selection-start-line="71" selection-start-column="84" selection-end-line="71" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="64" column="42" selection-start-line="64" selection-start-column="42" selection-end-line="64" selection-end-column="42" />
+          <folding>
+            <element signature="e#7#54#0#PHP" />
+            <element signature="e#55#208#0#PHP" />
+            <element signature="e#210#357#0#PHP" />
+            <element signature="e#358#497#0#PHP" />
+            <element signature="n#setUserTable#0;n#!!top" />
+            <element signature="n#setMessages#0;n#!!top" />
+            <element signature="n#getMessageCount#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/authenticator.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="580">
+          <caret line="29" column="41" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/update_product.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/admin_panel.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="498">
+          <caret line="31" column="16" selection-start-line="31" selection-start-column="16" selection-end-line="31" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/insert_product_handler.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="67" column="163" selection-start-line="67" selection-start-column="163" selection-end-line="67" selection-end-column="163" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/insert_product.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="59" column="46" selection-start-line="59" selection-start-column="46" selection-end-line="59" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="129" selection-start-line="129" selection-end-line="129" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contact.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1700">
+          <caret line="85" column="60" selection-start-line="85" selection-start-column="60" selection-end-line="85" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dbConnection.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="50" column="22" selection-start-line="50" selection-start-column="22" selection-end-line="50" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="640">
+          <caret line="37" column="81" selection-start-line="37" selection-start-column="81" selection-end-line="37" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="25" column="34" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/buy.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4620">
+          <caret line="236" column="19" selection-start-line="236" selection-start-column="19" selection-end-line="236" selection-end-column="19" />
+          <folding>
+            <element signature="n#getProduct#0;n#!!top" />
+            <element signature="n#show_details#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="174" column="32" selection-start-line="174" selection-start-column="32" selection-end-line="174" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

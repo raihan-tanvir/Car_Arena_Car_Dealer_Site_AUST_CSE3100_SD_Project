@@ -48,7 +48,7 @@ include 'authenticator.php';
             <a class="navbar-brand" href="index.php">
                 <img src="images/audiTronE8.jpg" width="auto" height="25" class="d-inline-block align-top"
                      alt="">
-                AUTO CHOICE
+                CARENA
             </a>
 
             <div class="navbar-nav ml-auto">

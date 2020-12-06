@@ -35,7 +35,7 @@
                     <br>
                     <i class="fa fa-phone" aria-hidden="true"> +8801832803540 </i>
                     <br>
-                    <i class="fa fa-envelope" aria-hidden="true"> raihantanvir@gmail.com </i>
+                    <i class="fa fa-envelope" aria-hidden="true"> raihantanvir.96@gmail.com </i>
                 </p>
             </div>
             <div class="col-md-4">
