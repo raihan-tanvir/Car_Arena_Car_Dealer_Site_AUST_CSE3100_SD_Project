@@ -5,7 +5,7 @@
 <table>
   <tr>
     <td>
-      <img src="docs/image/sc1.png" width=49%/>
+      <img src="docs/image/sc1.png" width=auto/>
     </td>
     <td>
       <img src="docs/image/sc2.png" width=49%/>
