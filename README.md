@@ -12,32 +12,31 @@
     <td>
       <img src="docs/image/sc3.png" width=auto/>
     </td>
-  </tr>
+  </tr>  
   
   <tr>
     <td>
       <img src="docs/image/sc4.png" width=auto/>
-    </td
-    <td>
-      <img src="docs/image/sc6.png" width=auto/>
-    </td>
-  </tr>
-  
-   <tr>
-    <td>
-      <img src="docs/image/sc7.png" width=auto/>
     </td>
     <td>
-      <img src="docs/image/sc8.png" width=auto/>
+      <img src="docs/image/sc5.png" width=auto/>
     </td>
-   </tr>
-   
+  </tr>  
   <tr>
     <td>
       <img src="docs/image/sc7.png" width=auto/>
     </td>
     <td>
-      <img src="docs/image/sc8.png" width=auto/>
+      <img src="docs/image/sc9.png" width=auto/>
     </td>
-   </tr>
+  </tr>  
+  <tr>
+    <td>
+      <img src="docs/image/sc11.png" width=auto/>
+    </td>
+    <td>
+      <img src="docs/image/sc14.png" width=auto/>
+    </td>
+  </tr>
+
 </table>
